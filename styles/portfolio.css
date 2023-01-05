@@ -111,6 +111,7 @@ main{
 .section-description{
     color: #757575;
     font-size: 18px;
+    margin-top: 15px;
     margin-bottom: 30px;
 
 
@@ -174,16 +175,20 @@ main{
     font-size: 16px;
     margin-bottom: 20px;
     gap: 10px;
+    /* reactions */
+
+
+
 
 }
-.reume .sub-title{
+.resume .sub-title{
     color: #757575;
     font-weight: 600;
     font-size: 19px;
     margin-bottom: 20px;
 }
-.reume .description{
-color: #757575;
+.resume .description{
+    color: #757575;
 }
 .resume-button{
     margin-top: 50px;
